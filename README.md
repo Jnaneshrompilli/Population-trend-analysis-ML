@@ -15,5 +15,5 @@ The models are evaluated using three metrics: R2 score, Mean Absolute Error, and
 
 
 ## Conclusion
-Based on the final score, Linear Regression excels, making it ideal for predicting future populatio
+Based on the final score, Linear Regression excels, making it ideal for predicting future population.
 
