@@ -1,4 +1,4 @@
-# World Population By Year Analysis
+# Population trend analysis
 ## Aim
 The aim of this analysis is to visualize and analyze the global population trend over the past 70 years and develop a predictive model for future world population
 
